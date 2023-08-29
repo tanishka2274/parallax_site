@@ -1,0 +1,66 @@
+/* body{
+   margin: 0%;
+   padding: 0;
+} */
+*{
+    padding: 0;
+    margin: 0;
+}
+#home1{
+    background: url('../img/pexels-ena-marinkovic-3640930.jpg') no-repeat center center/cover ;
+    height: 100vh;
+    width: 100vw;
+    
+   text-align: center;
+   color: white;
+   font-size: 25px;
+   background-attachment: fixed;
+}
+
+#home2{
+    background: url('../img/pexels-ena-marinkovic-3925875.jpg') no-repeat center  center/cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+   
+    
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+#home3{
+    background: url('../img/pexels-mariam-antadze-5913380.jpg') no-repeat  center center/cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+   
+    
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+#home4{
+    background: url('../img/pexels-nataliya-vaitkevich-7184344.jpg') no-repeat center  center/cover;
+    height:100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    
+    
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+#home5{
+    background: url('../img/pexels-valeriia-miller-3392937.jpg') no-repeat center  center/cover;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+ 
+    
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+/* .container{
+    padding: 200px 0;
+} */
